@@ -6,3 +6,8 @@ Chaque dossier contient un exercice avec des instruction dans le README
 Dans chaque dossier lancez simplement le script create.sh et laissez vous guider!
 
 _Pour réinitialiser l'exercice lancez le script à nouveau._
+
+
+# Origine
+
+Fork traduit en français de: https://github.com/SalomonBrys/Git-Exercices
