@@ -3,8 +3,8 @@ Vous ne voulez pas prendre en compte dans Git les fichier temporaire ou de confi
 Vous décidez de les ajouter au .gitignore
 
 Vous devez créer un fichier .gitignore qui fera les choses suivantes:
- - Ignorer tous les fichiers qui finissent pas ~
- - Ignorer tous les fichiers du dossier ou sauf le fichier conf.ini
+ - Ignorer tous les fichiers qui finissent par ~
+ - Ignorer tous les fichiers du dossier out sauf le fichier conf.ini
 
  En d'autres termes une fois le .gitignore écrit la commande 'git add .' ne devrait ajouter au stage que les fichiers suivants:
  - .gitignore
